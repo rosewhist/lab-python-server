@@ -1,4 +1,4 @@
-# Lab - Containerised Python server
+# Lab &mdash; Containerised Python server
 
 This lab aims to outline a recipe for building a standardised Python server that can be run in a container. Our major aims are to be able to:
 
